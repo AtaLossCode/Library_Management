@@ -1,0 +1,10 @@
+﻿  BookManagement.cpp
+  User.cpp
+D:\代码仓库\echo\test1.1 debug\test1.1 debug\User.cpp(94,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码仓库\echo\test1.1 debug\test1.1 debug\User.cpp(231,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码仓库\echo\test1.1 debug\test1.1 debug\User.cpp(340,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码仓库\echo\test1.1 debug\test1.1 debug\User.cpp(401,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码仓库\echo\test1.1 debug\test1.1 debug\User.cpp(625,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码仓库\echo\test1.1 debug\test1.1 debug\User.cpp(723,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  test1.vcxproj -> D:\代码仓库\echo\test1.1 debug\test1.1 debug\x64\Debug\test1.exe
